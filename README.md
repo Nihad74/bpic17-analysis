@@ -16,7 +16,7 @@ Please download it manually and place it under: ``data/BPI Challenge 2017.xes`` 
 
 
 ## Environment
-Python 3.10  
+Python 3.13 \
 Libraries: `pandas`, `pm4py`, `matplotlib`
 
 ## Author
